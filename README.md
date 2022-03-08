@@ -58,19 +58,19 @@
 
 <br>
 
-<div>
+<!-- <div>
   Ngành IT Việt Nam hiện nay ở đáy của các ngành nghề trong xã hội. Có thể nói dân IT là nô lệ cho các ngành nghề khác. Vừa nghèo, vừa hèn. Vừa mất thời gian lại bị xã hội xem thường.
 Thằng anh mình học bách khoa cơ khí, sinh năm 96. Đéo lo học cơ khí lại đua đòi bạn bè đọc cuốn 300 bài code thiếu nhi rồi đâm đầu vào học code, rồi đi làm sai vặt cho công ty BKAV 2 năm nay. Mỗi tối online đến 3-4 giờ sáng mới xong việc. Lương tháng 3 củ 6. Nhưng thu nhập chính vẫn là từ nhận tiền từ thiện của các nhà hảo tâm cho những hoàn cảnh neo đơn. Tuần đi xin ăn 2,3 lần cái nắng nôi 9,10 lít tiền xin được không phải đóng thuế. Làm gần được 3 năm mà đéo dư đồng nào, lại còn nợ nần đủ kiểu.
 Gái gú thì cứ nghe nó bảo làm CNTT thì nhìn kinh bỉ. Có bé kia dân du học sinh Canada, về được cô chị giới thiệu làm ngân hàng BIDV. Thế nào thằng ấy đi bán vé số gặp phải thế là láo nháo bị đánh cho cả chị lẫn em. 3 đứa nó sống mỗi đứa một nơi. Nhà con bé kia biết chuyện ban đầu phản đối hành vi ngược đãi động vật sau biết thằng đấy học IT thì đổi thái độ, cách ba bữa hỏi thăm, năm bữa tặng quà lấy lòng vì thất xót xa cảnh đã nghèo lại còn học IT, luôn giục xin cho vào mái ấm tình thương dành cho những người cơ nhỡ.
 Đúng là phận Dev 12 bến nước các bác ạ.
 </div>
 
-<br>
+<br> -->
 
 </body>
-<video width="320" height="240" controls onloadstart="this.volume=0.2">
+<!-- <video width="320" height="240" controls onloadstart="this.volume=0.2">
   <source src="https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4" type="video/mp4">
-</video>
+</video> -->
 
 <!-- https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4 -->
 
