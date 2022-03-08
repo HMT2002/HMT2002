@@ -64,7 +64,10 @@ Thằng anh mình học bách khoa cơ khí, sinh năm 96. Đéo lo học cơ kh
 Gái gú thì cứ nghe nó bảo làm CNTT thì nhìn kinh bỉ. Có bé kia dân du học sinh Canada, về được cô chị giới thiệu làm ngân hàng BIDV. Thế nào thằng ấy đi bán vé số gặp phải thế là láo nháo bị đánh cho cả chị lẫn em. 3 đứa nó sống mỗi đứa một nơi. Nhà con bé kia biết chuyện ban đầu phản đối hành vi ngược đãi động vật sau biết thằng đấy học IT thì đổi thái độ, cách ba bữa hỏi thăm, năm bữa tặng quà lấy lòng vì thất xót xa cảnh đã nghèo lại còn học IT, luôn giục xin cho vào mái ấm tình thương dành cho những người cơ nhỡ.
 Đúng là phận Dev 12 bến nước các bác ạ.
 </div>
-<video autoplay width="auto" height="320" controls loop onloadstart="this.volume=0.2">
+
+<br>
+
+<video onloadstart="this.volume=0.2">
   <source src="vid\275000581_1574575672924035_8944245748564397216_n.mp4" type="video/mp4"  />
 </video>
 
