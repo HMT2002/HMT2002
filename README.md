@@ -68,8 +68,6 @@ Gái gú thì cứ nghe nó bảo làm CNTT thì nhìn kinh bỉ. Có bé kia d�
 <br>
 
 </body>
-https://user-images.githubusercontent.com/82308907/156160569-5cabead9-5e56-4bde-8c0e-e74ba6bc7dc3.mp4
 
-
-
+https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4
 
