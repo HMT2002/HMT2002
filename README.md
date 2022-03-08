@@ -68,6 +68,9 @@ Gái gú thì cứ nghe nó bảo làm CNTT thì nhìn kinh bỉ. Có bé kia d�
 <br>
 
 </body>
+<video width="320" height="240" controls onloadstart="this.volume=0.2">
+  <source src="https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4" type="video/mp4">
+</video>
 
-https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4
+<!-- https://user-images.githubusercontent.com/82308907/157260893-b3df056b-c81e-4ea4-b040-4c9fc9f3c095.mp4 -->
 
