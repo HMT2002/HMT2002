@@ -25,7 +25,7 @@
 </div>
 
 <br>
-<h2 align="center">Thông tin liên hệ .<br/>
+<h2 align="center">Thông tin liên hệ (Xin đừng liên hệ) .<br/>
   Contact details.
 </h2>
 <br>
