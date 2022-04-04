@@ -53,7 +53,9 @@
   <h3 style="color: rgb(51, 255, 0)">
     bluesea070802@gmail.com
   </h3>
-
+<div>
+    Ngành IT Việt Nam hiện nay ở đáy của các ngành nghề trong xã hội. Có thể nói dân IT là nô lệ cho các ngành nghề khác. Vừa nghèo, vừa hèn. Vừa mất thời gian lại bị xã hội xem thường.
+  </div>
 </div>
 
 <br>
