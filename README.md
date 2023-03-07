@@ -43,7 +43,7 @@
     width="50" height="50"
     alt="bluesea-mailbox" />
   </a>
-  <a href="https://www.linkedin.com/in/bui-cay-biet-noi-476664214/">
+  <a href="https://www.linkedin.com/in/minh-tu%E1%BB%87-h%E1%BB%93-476664214/">
     <img src="images\5296501_linkedin_network_linkedin logo_icon.png"
     width="50" height="50"
     alt="linkedin"
